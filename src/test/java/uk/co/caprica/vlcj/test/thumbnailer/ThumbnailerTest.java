@@ -23,9 +23,9 @@ import uk.co.caprica.vlcj.enums.PictureType;
 import uk.co.caprica.vlcj.enums.ThumbnailerSeekSpeed;
 import uk.co.caprica.vlcj.factory.MediaPlayerFactory;
 import uk.co.caprica.vlcj.media.Media;
+import uk.co.caprica.vlcj.media.MediaEventAdapter;
 import uk.co.caprica.vlcj.model.Picture;
 import uk.co.caprica.vlcj.media.ThumbnailRequest;
-import uk.co.caprica.vlcj.media.events.MediaEventAdapter;
 import uk.co.caprica.vlcj.test.VlcjTest;
 
 import javax.imageio.ImageIO;
